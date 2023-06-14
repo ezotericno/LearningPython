@@ -1,2 +1,3 @@
 # LearningPython
-All of my Python project from my beginings of learning Python
+All of my Python projects from my beginings of learning Python
+
