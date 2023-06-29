@@ -1,0 +1,14 @@
+This is a place holder file for notes pertaining to chapter 1
+
+To run python files from a terminal, type [python version] [filename]
+
+Variable = variables are connected to values, the information in these values are stored as 
+the variable name
+
+Python Keywords = words that cannot be used as variable names due to being already in use by
+python as a built in function 
+
+Strings = a string is a series of characters usually contained within quotes 
+
+Methods = modify the data of strings and variables
+
