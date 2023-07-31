@@ -12,3 +12,4 @@ motorcycles.insert(1, 'kawasaki') # Adds an item at a specific spot in the list
 
 del motorcycles[3] # Deletes a specific item from a list
 
+motorcycles.remove('ducati') # removes a specific item from a list by its value
