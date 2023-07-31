@@ -1,4 +1,4 @@
-This is a place holder file for notes pertaining to chapter 1
+# Chapter 1 reference
 
 To run python files from a terminal, type [python version] [filename]
 
