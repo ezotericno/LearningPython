@@ -7,4 +7,10 @@
   - Lists are started at position 0, so the first item will be counted as item number 0 and so on
   - You can also use a list item in an f-string
     - EG ```f"This is my favrourite {car[2].title()}"```
-  
+
+  - .pop() method
+    - Pops an item out from the end of a list, but allows it to be worked with still inside of the program
+    - You can state a specific item with pop by inputting the position in the arguement
+    -EG ```motorcycles.pop(2)```
+
+
