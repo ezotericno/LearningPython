@@ -33,3 +33,6 @@ elif alien_0['speed'] == 'medium':
     x_increment = 2
 else:
     x_increment = 3
+
+# Removing Key value pairs
+del alien_0['points']
