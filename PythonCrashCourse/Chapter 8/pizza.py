@@ -25,3 +25,9 @@ def make_pizza(*toppings):
 
 make_pizza(16, 'pepperoni')
 make_pizza(12, 'mushrooms', 'green peppers', 'extra cheese')
+
+# Storing your functions in modules
+# Using Import to take from other files can help with the readibility of your program
+# There are several ways to import a module
+
+# Continued in seperate file making_pizzas.py
