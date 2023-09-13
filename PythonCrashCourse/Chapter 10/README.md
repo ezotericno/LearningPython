@@ -11,3 +11,4 @@ Absolute paths are as follows:
 1. file_path = '/home/ehmatthes/other_files/text_files/filename.txt'
 2. with open(file_path) as file_object:
 ```
+- ```readlines()``` method
