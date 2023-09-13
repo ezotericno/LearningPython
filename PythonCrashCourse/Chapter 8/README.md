@@ -9,3 +9,6 @@ of values. Each of these will have an example program contained in this folder.
 When a function processes data then returns a value or a set of values. 
 
 #Preventing a function from modifying a list
+
+You can send a copy of a list to a function like this:
+```function_name(list_name[:])```
