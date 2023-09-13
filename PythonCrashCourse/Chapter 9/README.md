@@ -12,3 +12,4 @@ Making an object from a class is called instantiation
 - ```random```
 - ```from random import randint```
 - ```from random import choice```
+- ```json```
