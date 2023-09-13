@@ -1,3 +1,4 @@
+# Aliases can also be used on classes
 from car import ElectricCar as EC
 
 my_tesla = EC('tesla', 'model s', 2019)
