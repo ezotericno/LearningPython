@@ -7,3 +7,8 @@
 - Child Class(Subclass)
   
 Making an object from a class is called instantiation
+
+## Helpful Native Python Modules
+- ```random```
+- ```from random import randint```
+- ```from random import choice```
