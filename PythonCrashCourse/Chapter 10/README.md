@@ -12,3 +12,4 @@ Absolute paths are as follows:
 2. with open(file_path) as file_object:
 ```
 - ```readlines()``` method
+- ```split()``` method separates a string into parts whereever it finds a space and stores all the parts of the string in a list.
