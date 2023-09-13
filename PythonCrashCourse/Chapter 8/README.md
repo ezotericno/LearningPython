@@ -12,3 +12,5 @@ When a function processes data then returns a value or a set of values.
 
 You can send a copy of a list to a function like this:
 ```function_name(list_name[:])```
+
+- Try to always have a docstring with your function. It helps whoever is reading the code to understand the meaning behind it.
