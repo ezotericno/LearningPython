@@ -1,4 +1,4 @@
-# All of my web development projects
+# Web Development with Python
 
 ## HTTP Methods TTR
 - GET = used to request data from a specific resource 
