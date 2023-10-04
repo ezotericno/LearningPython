@@ -8,4 +8,3 @@
   -  [In-Game Menus](https://www.renpy.org/doc/html/menus.html)
   -  [Python Statements](https://www.renpy.org/doc/html/python.html)
   -  [Live 2D Cubism](https://www.renpy.org/doc/html/live2d.html)
-  -  
