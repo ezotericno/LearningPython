@@ -20,3 +20,9 @@
 ## Jump-To Links
 
 [Link to Dir](#)
+
+## Resources
+- [Bootstrap DevBlog](https://themes.3rdwavemedia.com/bootstrap-templates/personal/devblog-free-bootstrap-5-blog-template-for-developers/)
+- [Bootstrap Freelancer](https://startbootstrap.com/theme/freelancer)
+- [Bootstrap clean blog](https://startbootstrap.com/theme/clean-blog)
+- [Bootstrap resume](https://startbootstrap.com/theme/resume)
