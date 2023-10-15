@@ -7,3 +7,5 @@
 - DELETE = used to delete a resource
 
 ### Python OOP TTR
+
+- [Flask web app](https://www.jetbrains.com/help/pycharm/creating-web-application-with-flask.html)
