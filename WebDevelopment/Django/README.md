@@ -16,6 +16,7 @@
     - [Django Tutorial 06](https://docs.djangoproject.com/en/4.2/intro/tutorial08/)
 
 - [Django for Everybody on YouTube](https://youtu.be/o0XbHvKxw7Y)
+- [Django Field Types](https://docs.djangoproject.com/en/4.2/ref/models/fields/#field-types)
 
 ## Jump-To Links
 
