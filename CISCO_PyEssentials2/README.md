@@ -4,3 +4,4 @@
 
 ## Link to Resources
   - [Python Standard Lubrary](https://docs.python.org/3/library/index.html)
+  - [Python Modules Library](https://docs.python.org/3/py-modindex.html)
